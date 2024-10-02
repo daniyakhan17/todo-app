@@ -1,0 +1,28 @@
+body{
+  background-color: aqua;
+}
+
+.div{
+  text-align: center;
+  margin-top: 50px;
+}
+.todobtn{
+  margin-left: 10px;
+}
+li{
+  margin-bottom: 30px;
+  list-style: none;
+}
+.delbtn{
+  background-color: beige;
+  color: black;
+  border-radius:10px ;
+  width: 80px;
+}
+.edbtn{
+  background-color: red;
+  color:white;
+  border-radius: 10px;
+  width: 80px;
+  margin-left: 10px;
+}
